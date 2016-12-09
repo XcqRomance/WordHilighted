@@ -1,0 +1,1311 @@
+{
+    "book_id": "63",
+    "pages": [
+              {
+              "page_number": "3",
+              "sections": [
+                           {
+                           "section_sequence": "2",
+                           "text": "Maggie had a bad day. She lost her favorite hat. She needs a big hug.",
+                           "audio_filename": "raz_hugs_le02_p3_text.mp3",
+                           "words": [
+                                     {
+                                     "word_sequence": "1",
+                                     "word_text": "Maggie",
+                                     "cue_start_ms": "0",
+                                     "cue_end_ms": "8890",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "123",
+                                     "boundingbox_width": "113",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "2",
+                                     "word_text": "had",
+                                     "cue_start_ms": "789",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "251",
+                                     "boundingbox_width": "53",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "3",
+                                     "word_text": "a",
+                                     "cue_start_ms": "1207",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "320",
+                                     "boundingbox_width": "17",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "4",
+                                     "word_text": "bad",
+                                     "cue_start_ms": "1523",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "353",
+                                     "boundingbox_width": "56",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "5",
+                                     "word_text": "day.",
+                                     "cue_start_ms": "2181",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "424",
+                                     "boundingbox_width": "65",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "6",
+                                     "word_text": "She",
+                                     "cue_start_ms": "3344",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "121",
+                                     "boundingbox_width": "53",
+                                     "boundingbox_height": "28"
+                                     },
+                                     {
+                                     "word_sequence": "7",
+                                     "word_text": "lost",
+                                     "cue_start_ms": "3738",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "189",
+                                     "boundingbox_width": "48",
+                                     "boundingbox_height": "28"
+                                     },
+                                     {
+                                     "word_sequence": "8",
+                                     "word_text": "her",
+                                     "cue_start_ms": "4347",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "251",
+                                     "boundingbox_width": "46",
+                                     "boundingbox_height": "28"
+                                     },
+                                     {
+                                     "word_sequence": "9",
+                                     "word_text": "favorite",
+                                     "cue_start_ms": "4536",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "310",
+                                     "boundingbox_width": "111",
+                                     "boundingbox_height": "28"
+                                     },
+                                     {
+                                     "word_sequence": "10",
+                                     "word_text": "hat.",
+                                     "cue_start_ms": "5057",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "435",
+                                     "boundingbox_width": "54",
+                                     "boundingbox_height": "28"
+                                     },
+                                     {
+                                     "word_sequence": "11",
+                                     "word_text": "She",
+                                     "cue_start_ms": "5852",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "121",
+                                     "boundingbox_width": "53",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "12",
+                                     "word_text": "needs",
+                                     "cue_start_ms": "6595",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "190",
+                                     "boundingbox_width": "85",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "13",
+                                     "word_text": "a",
+                                     "cue_start_ms": "7152",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "290",
+                                     "boundingbox_width": "16",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "14",
+                                     "word_text": "big",
+                                     "cue_start_ms": "7338",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "322",
+                                     "boundingbox_width": "44",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "15",
+                                     "word_text": "hug.",
+                                     "cue_start_ms": "7988",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "381",
+                                     "boundingbox_width": "62",
+                                     "boundingbox_height": "36"
+                                     }
+                                     ]
+                           }
+                           ]
+              },
+              {
+              "page_number": "4",
+              "sections": [
+                           {
+                           "section_sequence": "5",
+                           "text": "Jamal had a very bad day. He lost his favorite book. He needs a very big hug.",
+                           "audio_filename": "raz_hugs_le02_p4_text.mp3",
+                           "words": [
+                                     {
+                                     "word_sequence": "1",
+                                     "word_text": "Jamal",
+                                     "cue_start_ms": "0",
+                                     "cue_end_ms": "1210",
+                                     "boundingbox_top": "331",
+                                     "boundingbox_left": "116",
+                                     "boundingbox_width": "88",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "2",
+                                     "word_text": "had",
+                                     "cue_start_ms": "1210",
+                                     "cue_end_ms": "1430",
+                                     "boundingbox_top": "331",
+                                     "boundingbox_left": "220",
+                                     "boundingbox_width": "55",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "3",
+                                     "word_text": "a",
+                                     "cue_start_ms": "1430",
+                                     "cue_end_ms": "1540",
+                                     "boundingbox_top": "331",
+                                     "boundingbox_left": "289",
+                                     "boundingbox_width": "17",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "4",
+                                     "word_text": "very",
+                                     "cue_start_ms": "1540",
+                                     "cue_end_ms": "2160",
+                                     "boundingbox_top": "331",
+                                     "boundingbox_left": "320",
+                                     "boundingbox_width": "64",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "5",
+                                     "word_text": "bad",
+                                     "cue_start_ms": "2160",
+                                     "cue_end_ms": "2640",
+                                     "boundingbox_top": "331",
+                                     "boundingbox_left": "398",
+                                     "boundingbox_width": "56",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "6",
+                                     "word_text": "day.",
+                                     "cue_start_ms": "2640",
+                                     "cue_end_ms": "2940",
+                                     "boundingbox_top": "331",
+                                     "boundingbox_left": "469",
+                                     "boundingbox_width": "64",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "7",
+                                     "word_text": "He",
+                                     "cue_start_ms": "3019",
+                                     "cue_end_ms": "3070",
+                                     "boundingbox_top": "374",
+                                     "boundingbox_left": "123",
+                                     "boundingbox_width": "39",
+                                     "boundingbox_height": "27"
+                                     },
+                                     {
+                                     "word_sequence": "8",
+                                     "word_text": "lost",
+                                     "cue_start_ms": "3860",
+                                     "cue_end_ms": "4170",
+                                     "boundingbox_top": "374",
+                                     "boundingbox_left": "177",
+                                     "boundingbox_width": "47",
+                                     "boundingbox_height": "27"
+                                     },
+                                     {
+                                     "word_sequence": "9",
+                                     "word_text": "his",
+                                     "cue_start_ms": "4170",
+                                     "cue_end_ms": "4360",
+                                     "boundingbox_top": "374",
+                                     "boundingbox_left": "239",
+                                     "boundingbox_width": "35",
+                                     "boundingbox_height": "27"
+                                     },
+                                     {
+                                     "word_sequence": "10",
+                                     "word_text": "favorite",
+                                     "cue_start_ms": "4360",
+                                     "cue_end_ms": "4990",
+                                     "boundingbox_top": "374",
+                                     "boundingbox_left": "288",
+                                     "boundingbox_width": "112",
+                                     "boundingbox_height": "27"
+                                     },
+                                     {
+                                     "word_sequence": "11",
+                                     "word_text": "book.",
+                                     "cue_start_ms": "4990",
+                                     "cue_end_ms": "6210",
+                                     "boundingbox_top": "374",
+                                     "boundingbox_left": "414",
+                                     "boundingbox_width": "79",
+                                     "boundingbox_height": "27"
+                                     },
+                                     {
+                                     "word_sequence": "12",
+                                     "word_text": "He",
+                                     "cue_start_ms": "6210",
+                                     "cue_end_ms": "6510",
+                                     "boundingbox_top": "417",
+                                     "boundingbox_left": "123",
+                                     "boundingbox_width": "39",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "13",
+                                     "word_text": "needs",
+                                     "cue_start_ms": "6510",
+                                     "cue_end_ms": "7310",
+                                     "boundingbox_top": "417",
+                                     "boundingbox_left": "177",
+                                     "boundingbox_width": "85",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "14",
+                                     "word_text": "a",
+                                     "cue_start_ms": "7310",
+                                     "cue_end_ms": "9250",
+                                     "boundingbox_top": "417",
+                                     "boundingbox_left": "277",
+                                     "boundingbox_width": "17",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "15",
+                                     "word_text": "very",
+                                     "cue_start_ms": "7477",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "417",
+                                     "boundingbox_left": "308",
+                                     "boundingbox_width": "64",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "16",
+                                     "word_text": "big",
+                                     "cue_start_ms": "8206",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "417",
+                                     "boundingbox_left": "386",
+                                     "boundingbox_width": "42",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "17",
+                                     "word_text": "hug.",
+                                     "cue_start_ms": "8393",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "417",
+                                     "boundingbox_left": "445",
+                                     "boundingbox_width": "61",
+                                     "boundingbox_height": "36"
+                                     }
+                                     ]
+                           }
+                           ]
+              },
+              {
+              "page_number": "5",
+              "sections": [
+                           {
+                           "section_sequence": "8",
+                           "text": "Max had a terrible day. He fell and cut his knee. He needs a huge hug.",
+                           "audio_filename": "raz_hugs_le02_p5_text.mp3",
+                           "words": [
+                                     {
+                                     "word_sequence": "1",
+                                     "word_text": "Max",
+                                     "cue_start_ms": "0",
+                                     "cue_end_ms": "1040",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "121",
+                                     "boundingbox_width": "65",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "2",
+                                     "word_text": "had",
+                                     "cue_start_ms": "1040",
+                                     "cue_end_ms": "1460",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "199",
+                                     "boundingbox_width": "55",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "3",
+                                     "word_text": "a",
+                                     "cue_start_ms": "1460",
+                                     "cue_end_ms": "1610",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "270",
+                                     "boundingbox_width": "17",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "4",
+                                     "word_text": "terrible",
+                                     "cue_start_ms": "1610",
+                                     "cue_end_ms": "2480",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "301",
+                                     "boundingbox_width": "103",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "5",
+                                     "word_text": "day.",
+                                     "cue_start_ms": "2480",
+                                     "cue_end_ms": "2740",
+                                     "boundingbox_top": "336",
+                                     "boundingbox_left": "418",
+                                     "boundingbox_width": "64",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "6",
+                                     "word_text": "He",
+                                     "cue_start_ms": "2930",
+                                     "cue_end_ms": "5870",
+                                     "boundingbox_top": "379",
+                                     "boundingbox_left": "120",
+                                     "boundingbox_width": "39",
+                                     "boundingbox_height": "29"
+                                     },
+                                     {
+                                     "word_sequence": "7",
+                                     "word_text": "fell",
+                                     "cue_start_ms": "3576",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "379",
+                                     "boundingbox_left": "173",
+                                     "boundingbox_width": "43",
+                                     "boundingbox_height": "29"
+                                     },
+                                     {
+                                     "word_sequence": "8",
+                                     "word_text": "and",
+                                     "cue_start_ms": "4351",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "379",
+                                     "boundingbox_left": "230",
+                                     "boundingbox_width": "57",
+                                     "boundingbox_height": "29"
+                                     },
+                                     {
+                                     "word_sequence": "9",
+                                     "word_text": "cut",
+                                     "cue_start_ms": "4606",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "379",
+                                     "boundingbox_left": "301",
+                                     "boundingbox_width": "43",
+                                     "boundingbox_height": "29"
+                                     },
+                                     {
+                                     "word_sequence": "10",
+                                     "word_text": "his",
+                                     "cue_start_ms": "4880",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "379",
+                                     "boundingbox_left": "358",
+                                     "boundingbox_width": "36",
+                                     "boundingbox_height": "29"
+                                     },
+                                     {
+                                     "word_sequence": "11",
+                                     "word_text": "knee.",
+                                     "cue_start_ms": "5206",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "379",
+                                     "boundingbox_left": "409",
+                                     "boundingbox_width": "77",
+                                     "boundingbox_height": "29"
+                                     },
+                                     {
+                                     "word_sequence": "12",
+                                     "word_text": "He",
+                                     "cue_start_ms": "5763",
+                                     "cue_end_ms": "6710",
+                                     "boundingbox_top": "422",
+                                     "boundingbox_left": "120",
+                                     "boundingbox_width": "40",
+                                     "boundingbox_height": "34"
+                                     },
+                                     {
+                                     "word_sequence": "13",
+                                     "word_text": "needs",
+                                     "cue_start_ms": "6710",
+                                     "cue_end_ms": "7290",
+                                     "boundingbox_top": "422",
+                                     "boundingbox_left": "174",
+                                     "boundingbox_width": "87",
+                                     "boundingbox_height": "34"
+                                     },
+                                     {
+                                     "word_sequence": "14",
+                                     "word_text": "a",
+                                     "cue_start_ms": "7290",
+                                     "cue_end_ms": "7530",
+                                     "boundingbox_top": "422",
+                                     "boundingbox_left": "274",
+                                     "boundingbox_width": "18",
+                                     "boundingbox_height": "34"
+                                     },
+                                     {
+                                     "word_sequence": "15",
+                                     "word_text": "huge",
+                                     "cue_start_ms": "7530",
+                                     "cue_end_ms": "8560",
+                                     "boundingbox_top": "422",
+                                     "boundingbox_left": "307",
+                                     "boundingbox_width": "72",
+                                     "boundingbox_height": "34"
+                                     },
+                                     {
+                                     "word_sequence": "16",
+                                     "word_text": "hug.",
+                                     "cue_start_ms": "8560",
+                                     "cue_end_ms": "9370",
+                                     "boundingbox_top": "422",
+                                     "boundingbox_left": "393",
+                                     "boundingbox_width": "63",
+                                     "boundingbox_height": "34"
+                                     }
+                                     ]
+                           }
+                           ]
+              },
+              {
+              "page_number": "6",
+              "sections": [
+                           {
+                           "section_sequence": "11",
+                           "text": "Yoshi had a rotten day. Her soccer team lost the big game. Yoshi needs a giant hug.",
+                           "audio_filename": "raz_hugs_le02_p6_text.mp3",
+                           "words": [
+                                     {
+                                     "word_sequence": "1",
+                                     "word_text": "Yoshi",
+                                     "cue_start_ms": "0",
+                                     "cue_end_ms": "6770",
+                                     "boundingbox_top": "329",
+                                     "boundingbox_left": "121",
+                                     "boundingbox_width": "77",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "2",
+                                     "word_text": "had",
+                                     "cue_start_ms": "882",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "329",
+                                     "boundingbox_left": "213",
+                                     "boundingbox_width": "55",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "3",
+                                     "word_text": "a",
+                                     "cue_start_ms": "1393",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "329",
+                                     "boundingbox_left": "282",
+                                     "boundingbox_width": "18",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "4",
+                                     "word_text": "rotten",
+                                     "cue_start_ms": "1756",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "329",
+                                     "boundingbox_left": "316",
+                                     "boundingbox_width": "81",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "5",
+                                     "word_text": "day.",
+                                     "cue_start_ms": "2274",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "329",
+                                     "boundingbox_left": "412",
+                                     "boundingbox_width": "65",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "6",
+                                     "word_text": "Her",
+                                     "cue_start_ms": "2972",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "124",
+                                     "boundingbox_width": "52",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "7",
+                                     "word_text": "soccer",
+                                     "cue_start_ms": "3572",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "189",
+                                     "boundingbox_width": "94",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "8",
+                                     "word_text": "team",
+                                     "cue_start_ms": "4048",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "296",
+                                     "boundingbox_width": "72",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "9",
+                                     "word_text": "lost",
+                                     "cue_start_ms": "4458",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "384",
+                                     "boundingbox_width": "48",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "10",
+                                     "word_text": "the",
+                                     "cue_start_ms": "5132",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "445",
+                                     "boundingbox_width": "44",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "11",
+                                     "word_text": "big",
+                                     "cue_start_ms": "5457",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "504",
+                                     "boundingbox_width": "43",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "12",
+                                     "word_text": "game.",
+                                     "cue_start_ms": "5916",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "561",
+                                     "boundingbox_width": "93",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "13",
+                                     "word_text": "Yoshi",
+                                     "cue_start_ms": "6827",
+                                     "cue_end_ms": "7960",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "121",
+                                     "boundingbox_width": "77",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "14",
+                                     "word_text": "needs",
+                                     "cue_start_ms": "7960",
+                                     "cue_end_ms": "8560",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "213",
+                                     "boundingbox_width": "86",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "15",
+                                     "word_text": "a",
+                                     "cue_start_ms": "8560",
+                                     "cue_end_ms": "8790",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "313",
+                                     "boundingbox_width": "17",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "16",
+                                     "word_text": "giant",
+                                     "cue_start_ms": "8790",
+                                     "cue_end_ms": "9580",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "344",
+                                     "boundingbox_width": "74",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "17",
+                                     "word_text": "hug.",
+                                     "cue_start_ms": "9580",
+                                     "cue_end_ms": "10350",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "433",
+                                     "boundingbox_width": "62",
+                                     "boundingbox_height": "36"
+                                     }
+                                     ]
+                           }
+                           ]
+              },
+              {
+              "page_number": "7",
+              "sections": [
+                           {
+                           "section_sequence": "14",
+                           "text": "Rollo had a miserable day. His best friend moved away. Rollo needs an enormous hug.",
+                           "audio_filename": "raz_hugs_le02_p7_text.mp3",
+                           "words": [
+                                     {
+                                     "word_sequence": "1",
+                                     "word_text": "Rollo",
+                                     "cue_start_ms": "280",
+                                     "cue_end_ms": "1000",
+                                     "boundingbox_top": "337",
+                                     "boundingbox_left": "117",
+                                     "boundingbox_width": "70",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "2",
+                                     "word_text": "had",
+                                     "cue_start_ms": "1000",
+                                     "cue_end_ms": "1340",
+                                     "boundingbox_top": "337",
+                                     "boundingbox_left": "200",
+                                     "boundingbox_width": "56",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "3",
+                                     "word_text": "a",
+                                     "cue_start_ms": "1340",
+                                     "cue_end_ms": "1420",
+                                     "boundingbox_top": "337",
+                                     "boundingbox_left": "269",
+                                     "boundingbox_width": "18",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "4",
+                                     "word_text": "miserable",
+                                     "cue_start_ms": "1420",
+                                     "cue_end_ms": "2240",
+                                     "boundingbox_top": "337",
+                                     "boundingbox_left": "303",
+                                     "boundingbox_width": "141",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "5",
+                                     "word_text": "day.",
+                                     "cue_start_ms": "2240",
+                                     "cue_end_ms": "2890",
+                                     "boundingbox_top": "337",
+                                     "boundingbox_left": "458",
+                                     "boundingbox_width": "64",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "6",
+                                     "word_text": "His",
+                                     "cue_start_ms": "3380",
+                                     "cue_end_ms": "3650",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "117",
+                                     "boundingbox_width": "43",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "7",
+                                     "word_text": "best",
+                                     "cue_start_ms": "3650",
+                                     "cue_end_ms": "4000",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "174",
+                                     "boundingbox_width": "60",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "8",
+                                     "word_text": "friend",
+                                     "cue_start_ms": "4000",
+                                     "cue_end_ms": "4630",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "246",
+                                     "boundingbox_width": "85",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "9",
+                                     "word_text": "moved",
+                                     "cue_start_ms": "4630",
+                                     "cue_end_ms": "5020",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "347",
+                                     "boundingbox_width": "96",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "10",
+                                     "word_text": "away.",
+                                     "cue_start_ms": "5020",
+                                     "cue_end_ms": "5710",
+                                     "boundingbox_top": "380",
+                                     "boundingbox_left": "458",
+                                     "boundingbox_width": "91",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "11",
+                                     "word_text": "Rollo",
+                                     "cue_start_ms": "6550",
+                                     "cue_end_ms": "7130",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "117",
+                                     "boundingbox_width": "70",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "12",
+                                     "word_text": "needs",
+                                     "cue_start_ms": "7130",
+                                     "cue_end_ms": "7770",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "201",
+                                     "boundingbox_width": "86",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "13",
+                                     "word_text": "an",
+                                     "cue_start_ms": "7770",
+                                     "cue_end_ms": "7960",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "300",
+                                     "boundingbox_width": "36",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "14",
+                                     "word_text": "enormous",
+                                     "cue_start_ms": "7960",
+                                     "cue_end_ms": "8850",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "351",
+                                     "boundingbox_width": "143",
+                                     "boundingbox_height": "35"
+                                     },
+                                     {
+                                     "word_sequence": "15",
+                                     "word_text": "hug.",
+                                     "cue_start_ms": "8850",
+                                     "cue_end_ms": "9470",
+                                     "boundingbox_top": "423",
+                                     "boundingbox_left": "508",
+                                     "boundingbox_width": "62",
+                                     "boundingbox_height": "35"
+                                     }
+                                     ]
+                           }
+                           ]
+              },
+              {
+              "page_number": "8",
+              "sections": [
+                           {
+                           "section_sequence": "17",
+                           "text": "Rosie had a horrible day. Her pet goldfish died. She feels very sad. She needs a bunch of big hugs.",
+                           "audio_filename": "raz_hugs_le02_p8_text.mp3",
+                           "words": [
+                                     {
+                                     "word_sequence": "1",
+                                     "word_text": "Rosie",
+                                     "cue_start_ms": "490",
+                                     "cue_end_ms": "5930",
+                                     "boundingbox_top": "286",
+                                     "boundingbox_left": "124",
+                                     "boundingbox_width": "69",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "2",
+                                     "word_text": "had",
+                                     "cue_start_ms": "1163",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "286",
+                                     "boundingbox_left": "208",
+                                     "boundingbox_width": "50",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "3",
+                                     "word_text": "a",
+                                     "cue_start_ms": "1581",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "286",
+                                     "boundingbox_left": "273",
+                                     "boundingbox_width": "16",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "4",
+                                     "word_text": "horrible",
+                                     "cue_start_ms": "1836",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "286",
+                                     "boundingbox_left": "305",
+                                     "boundingbox_width": "105",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "5",
+                                     "word_text": "day.",
+                                     "cue_start_ms": "2765",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "286",
+                                     "boundingbox_left": "422",
+                                     "boundingbox_width": "61",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "6",
+                                     "word_text": "Her",
+                                     "cue_start_ms": "3415",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "329",
+                                     "boundingbox_left": "124",
+                                     "boundingbox_width": "52",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "7",
+                                     "word_text": "pet",
+                                     "cue_start_ms": "4135",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "329",
+                                     "boundingbox_left": "191",
+                                     "boundingbox_width": "44",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "8",
+                                     "word_text": "goldfish",
+                                     "cue_start_ms": "4553",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "329",
+                                     "boundingbox_left": "249",
+                                     "boundingbox_width": "114",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "9",
+                                     "word_text": "died.",
+                                     "cue_start_ms": "5273",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "329",
+                                     "boundingbox_left": "378",
+                                     "boundingbox_width": "71",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "10",
+                                     "word_text": "She",
+                                     "cue_start_ms": "6109",
+                                     "cue_end_ms": "6700",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "122",
+                                     "boundingbox_width": "54",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "11",
+                                     "word_text": "feels",
+                                     "cue_start_ms": "6700",
+                                     "cue_end_ms": "7390",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "190",
+                                     "boundingbox_width": "67",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "12",
+                                     "word_text": "very",
+                                     "cue_start_ms": "7390",
+                                     "cue_end_ms": "8090",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "270",
+                                     "boundingbox_width": "63",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "13",
+                                     "word_text": "sad.",
+                                     "cue_start_ms": "8090",
+                                     "cue_end_ms": "12970",
+                                     "boundingbox_top": "372",
+                                     "boundingbox_left": "347",
+                                     "boundingbox_width": "61",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "14",
+                                     "word_text": "She",
+                                     "cue_start_ms": "9290",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "122",
+                                     "boundingbox_width": "54",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "15",
+                                     "word_text": "needs",
+                                     "cue_start_ms": "9971",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "192",
+                                     "boundingbox_width": "85",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "16",
+                                     "word_text": "a",
+                                     "cue_start_ms": "10381",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "291",
+                                     "boundingbox_width": "18",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "17",
+                                     "word_text": "bunch",
+                                     "cue_start_ms": "11039",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "325",
+                                     "boundingbox_width": "86",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "18",
+                                     "word_text": "of",
+                                     "cue_start_ms": "11658",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "426",
+                                     "boundingbox_width": "27",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "19",
+                                     "word_text": "big",
+                                     "cue_start_ms": "12061",
+                                     "cue_end_ms": "-1",
+                                     "boundingbox_top": "415",
+                                     "boundingbox_left": "469",
+                                     "boundingbox_width": "43",
+                                     "boundingbox_height": "36"
+                                     },
+                                     {
+                                     "word_sequence": "20",
+                                     "word_text": "hugs.",
+                                     "cue_start_ms": "12339",
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "415", 
+                                     "boundingbox_left": "528", 
+                                     "boundingbox_width": "75", 
+                                     "boundingbox_height": "36"
+                                     }
+                                     ]
+                           }
+                           ]
+              }, 
+              {
+              "page_number": "9", 
+              "sections": [
+                           {
+                           "section_sequence": "21", 
+                           "text": "Billy had a good day. It was his birthday.", 
+                           "audio_filename": "raz_hugs_le02_p9_text.mp3", 
+                           "words": [
+                                     {
+                                     "word_sequence": "1", 
+                                     "word_text": "Billy", 
+                                     "cue_start_ms": "70", 
+                                     "cue_end_ms": "570", 
+                                     "boundingbox_top": "379", 
+                                     "boundingbox_left": "114", 
+                                     "boundingbox_width": "59", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "2", 
+                                     "word_text": "had", 
+                                     "cue_start_ms": "570", 
+                                     "cue_end_ms": "950", 
+                                     "boundingbox_top": "379", 
+                                     "boundingbox_left": "187", 
+                                     "boundingbox_width": "55", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "3", 
+                                     "word_text": "a", 
+                                     "cue_start_ms": "950", 
+                                     "cue_end_ms": "1120", 
+                                     "boundingbox_top": "379", 
+                                     "boundingbox_left": "256", 
+                                     "boundingbox_width": "17", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "4", 
+                                     "word_text": "good", 
+                                     "cue_start_ms": "1120", 
+                                     "cue_end_ms": "1600", 
+                                     "boundingbox_top": "379", 
+                                     "boundingbox_left": "288", 
+                                     "boundingbox_width": "75", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "5", 
+                                     "word_text": "day.", 
+                                     "cue_start_ms": "1600", 
+                                     "cue_end_ms": "2180", 
+                                     "boundingbox_top": "379", 
+                                     "boundingbox_left": "378", 
+                                     "boundingbox_width": "64", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "6", 
+                                     "word_text": "It", 
+                                     "cue_start_ms": "2180", 
+                                     "cue_end_ms": "2900", 
+                                     "boundingbox_top": "422", 
+                                     "boundingbox_left": "114", 
+                                     "boundingbox_width": "16", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "7", 
+                                     "word_text": "was", 
+                                     "cue_start_ms": "2900", 
+                                     "cue_end_ms": "3450", 
+                                     "boundingbox_top": "422", 
+                                     "boundingbox_left": "142", 
+                                     "boundingbox_width": "61", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "8", 
+                                     "word_text": "his", 
+                                     "cue_start_ms": "3450", 
+                                     "cue_end_ms": "3800", 
+                                     "boundingbox_top": "422", 
+                                     "boundingbox_left": "217", 
+                                     "boundingbox_width": "36", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "9", 
+                                     "word_text": "birthday.", 
+                                     "cue_start_ms": "3800", 
+                                     "cue_end_ms": "4690", 
+                                     "boundingbox_top": "422", 
+                                     "boundingbox_left": "268", 
+                                     "boundingbox_width": "130", 
+                                     "boundingbox_height": "36"
+                                     }
+                                     ]
+                           }
+                           ]
+              }, 
+              {
+              "page_number": "10", 
+              "sections": [
+                           {
+                           "section_sequence": "23", 
+                           "text": "Everybody gave Billy a birthday hug. The hugs made everybody feel better.", 
+                           "audio_filename": "raz_hugs_le02_p10_text.mp3", 
+                           "words": [
+                                     {
+                                     "word_sequence": "1", 
+                                     "word_text": "Everybody", 
+                                     "cue_start_ms": "400", 
+                                     "cue_end_ms": "7680", 
+                                     "boundingbox_top": "372", 
+                                     "boundingbox_left": "126", 
+                                     "boundingbox_width": "157", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "2", 
+                                     "word_text": "gave", 
+                                     "cue_start_ms": "1004", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "372", 
+                                     "boundingbox_left": "295", 
+                                     "boundingbox_width": "74", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "3", 
+                                     "word_text": "Billy", 
+                                     "cue_start_ms": "1515", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "372", 
+                                     "boundingbox_left": "383", 
+                                     "boundingbox_width": "58", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "4", 
+                                     "word_text": "a", 
+                                     "cue_start_ms": "1840", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "372", 
+                                     "boundingbox_left": "454", 
+                                     "boundingbox_width": "18", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "5", 
+                                     "word_text": "birthday", 
+                                     "cue_start_ms": "2304", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "372", 
+                                     "boundingbox_left": "487", 
+                                     "boundingbox_width": "123", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "6", 
+                                     "word_text": "hug.", 
+                                     "cue_start_ms": "2954", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "372", 
+                                     "boundingbox_left": "623", 
+                                     "boundingbox_width": "63", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "7", 
+                                     "word_text": "The", 
+                                     "cue_start_ms": "3697", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "415", 
+                                     "boundingbox_left": "124", 
+                                     "boundingbox_width": "52", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "8", 
+                                     "word_text": "hugs", 
+                                     "cue_start_ms": "4288", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "415", 
+                                     "boundingbox_left": "191", 
+                                     "boundingbox_width": "67", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "9", 
+                                     "word_text": "made", 
+                                     "cue_start_ms": "4794", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "415", 
+                                     "boundingbox_left": "273", 
+                                     "boundingbox_width": "83", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "10", 
+                                     "word_text": "everybody", 
+                                     "cue_start_ms": "5183", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "415", 
+                                     "boundingbox_left": "369", 
+                                     "boundingbox_width": "158", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "11", 
+                                     "word_text": "feel", 
+                                     "cue_start_ms": "6242", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "415", 
+                                     "boundingbox_left": "539", 
+                                     "boundingbox_width": "54", 
+                                     "boundingbox_height": "36"
+                                     }, 
+                                     {
+                                     "word_sequence": "12", 
+                                     "word_text": "better.", 
+                                     "cue_start_ms": "6776", 
+                                     "cue_end_ms": "-1", 
+                                     "boundingbox_top": "415", 
+                                     "boundingbox_left": "608", 
+                                     "boundingbox_width": "94", 
+                                     "boundingbox_height": "36"
+                                     }
+                                     ]
+                           }
+                           ]
+              }
+              ]
+}
