@@ -11,8 +11,6 @@
 		35F972CE1DFA4E94002D04D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35F972CC1DFA4E94002D04D0 /* Main.storyboard */; };
 		35F972D01DFA4E94002D04D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35F972CF1DFA4E94002D04D0 /* Assets.xcassets */; };
 		35F972D31DFA4E94002D04D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35F972D11DFA4E94002D04D0 /* LaunchScreen.storyboard */; };
-		35F972DE1DFA4E94002D04D0 /* WordHilightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F972DD1DFA4E94002D04D0 /* WordHilightTests.swift */; };
-		35F972E91DFA4E94002D04D0 /* WordHilightUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F972E81DFA4E94002D04D0 /* WordHilightUITests.swift */; };
 		35F9731B1DFA4EC7002D04D0 /* Test2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F972F61DFA4EC7002D04D0 /* Test2ViewController.swift */; };
 		35F9731C1DFA4EC7002D04D0 /* BookCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F972F71DFA4EC7002D04D0 /* BookCollectionViewController.swift */; };
 		35F9731D1DFA4EC7002D04D0 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F972F81DFA4EC7002D04D0 /* Page.swift */; };
@@ -20,7 +18,6 @@
 		35F9731F1DFA4EC7002D04D0 /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F972FA1DFA4EC7002D04D0 /* Section.swift */; };
 		35F973201DFA4EC7002D04D0 /* SwiftExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F972FB1DFA4EC7002D04D0 /* SwiftExtention.swift */; };
 		35F973211DFA4EC7002D04D0 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F972FC1DFA4EC7002D04D0 /* Word.swift */; };
-		35F973221DFA4EC7002D04D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35F972FD1DFA4EC7002D04D0 /* Assets.xcassets */; };
 		35F973231DFA4EC7002D04D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35F972FF1DFA4EC7002D04D0 /* LaunchScreen.storyboard */; };
 		35F973241DFA4EC7002D04D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35F973011DFA4EC7002D04D0 /* Main.storyboard */; };
 		35F973251DFA4EC7002D04D0 /* BookCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F973031DFA4EC7002D04D0 /* BookCollectionViewCell.swift */; };
@@ -47,23 +44,6 @@
 		35F9733A1DFA4EC7002D04D0 /* Test1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F9731A1DFA4EC7002D04D0 /* Test1ViewController.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		35F972DA1DFA4E94002D04D0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 35F972BD1DFA4E94002D04D0 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 35F972C41DFA4E94002D04D0;
-			remoteInfo = WordHilight;
-		};
-		35F972E51DFA4E94002D04D0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 35F972BD1DFA4E94002D04D0 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 35F972C41DFA4E94002D04D0;
-			remoteInfo = WordHilight;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
 		35F972C51DFA4E94002D04D0 /* WordHilight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordHilight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35F972C81DFA4E94002D04D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -71,12 +51,6 @@
 		35F972CF1DFA4E94002D04D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35F972D21DFA4E94002D04D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35F972D41DFA4E94002D04D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		35F972D91DFA4E94002D04D0 /* WordHilightTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WordHilightTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		35F972DD1DFA4E94002D04D0 /* WordHilightTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordHilightTests.swift; sourceTree = "<group>"; };
-		35F972DF1DFA4E94002D04D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		35F972E41DFA4E94002D04D0 /* WordHilightUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WordHilightUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		35F972E81DFA4E94002D04D0 /* WordHilightUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordHilightUITests.swift; sourceTree = "<group>"; };
-		35F972EA1DFA4E94002D04D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35F972F61DFA4EC7002D04D0 /* Test2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test2ViewController.swift; sourceTree = "<group>"; };
 		35F972F71DFA4EC7002D04D0 /* BookCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookCollectionViewController.swift; sourceTree = "<group>"; };
 		35F972F81DFA4EC7002D04D0 /* Page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
@@ -119,20 +93,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		35F972D61DFA4E94002D04D0 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		35F972E11DFA4E94002D04D0 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -140,8 +100,6 @@
 			isa = PBXGroup;
 			children = (
 				35F972C71DFA4E94002D04D0 /* WordHilight */,
-				35F972DC1DFA4E94002D04D0 /* WordHilightTests */,
-				35F972E71DFA4E94002D04D0 /* WordHilightUITests */,
 				35F972C61DFA4E94002D04D0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -150,8 +108,6 @@
 			isa = PBXGroup;
 			children = (
 				35F972C51DFA4E94002D04D0 /* WordHilight.app */,
-				35F972D91DFA4E94002D04D0 /* WordHilightTests.xctest */,
-				35F972E41DFA4E94002D04D0 /* WordHilightUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -181,24 +137,6 @@
 				35F972D41DFA4E94002D04D0 /* Info.plist */,
 			);
 			path = WordHilight;
-			sourceTree = "<group>";
-		};
-		35F972DC1DFA4E94002D04D0 /* WordHilightTests */ = {
-			isa = PBXGroup;
-			children = (
-				35F972DD1DFA4E94002D04D0 /* WordHilightTests.swift */,
-				35F972DF1DFA4E94002D04D0 /* Info.plist */,
-			);
-			path = WordHilightTests;
-			sourceTree = "<group>";
-		};
-		35F972E71DFA4E94002D04D0 /* WordHilightUITests */ = {
-			isa = PBXGroup;
-			children = (
-				35F972E81DFA4E94002D04D0 /* WordHilightUITests.swift */,
-				35F972EA1DFA4E94002D04D0 /* Info.plist */,
-			);
-			path = WordHilightUITests;
 			sourceTree = "<group>";
 		};
 		35F972FE1DFA4EC7002D04D0 /* Base.lproj */ = {
@@ -262,42 +200,6 @@
 			productReference = 35F972C51DFA4E94002D04D0 /* WordHilight.app */;
 			productType = "com.apple.product-type.application";
 		};
-		35F972D81DFA4E94002D04D0 /* WordHilightTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 35F972F01DFA4E94002D04D0 /* Build configuration list for PBXNativeTarget "WordHilightTests" */;
-			buildPhases = (
-				35F972D51DFA4E94002D04D0 /* Sources */,
-				35F972D61DFA4E94002D04D0 /* Frameworks */,
-				35F972D71DFA4E94002D04D0 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				35F972DB1DFA4E94002D04D0 /* PBXTargetDependency */,
-			);
-			name = WordHilightTests;
-			productName = WordHilightTests;
-			productReference = 35F972D91DFA4E94002D04D0 /* WordHilightTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		35F972E31DFA4E94002D04D0 /* WordHilightUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 35F972F31DFA4E94002D04D0 /* Build configuration list for PBXNativeTarget "WordHilightUITests" */;
-			buildPhases = (
-				35F972E01DFA4E94002D04D0 /* Sources */,
-				35F972E11DFA4E94002D04D0 /* Frameworks */,
-				35F972E21DFA4E94002D04D0 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				35F972E61DFA4E94002D04D0 /* PBXTargetDependency */,
-			);
-			name = WordHilightUITests;
-			productName = WordHilightUITests;
-			productReference = 35F972E41DFA4E94002D04D0 /* WordHilightUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -305,25 +207,14 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0810;
-				LastUpgradeCheck = 0810;
+				LastUpgradeCheck = 0910;
 				ORGANIZATIONNAME = romance;
 				TargetAttributes = {
 					35F972C41DFA4E94002D04D0 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 5CC4VW7238;
+						LastSwiftMigration = 0910;
 						ProvisioningStyle = Automatic;
-					};
-					35F972D81DFA4E94002D04D0 = {
-						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 5CC4VW7238;
-						ProvisioningStyle = Automatic;
-						TestTargetID = 35F972C41DFA4E94002D04D0;
-					};
-					35F972E31DFA4E94002D04D0 = {
-						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 5CC4VW7238;
-						ProvisioningStyle = Automatic;
-						TestTargetID = 35F972C41DFA4E94002D04D0;
 					};
 				};
 			};
@@ -341,8 +232,6 @@
 			projectRoot = "";
 			targets = (
 				35F972C41DFA4E94002D04D0 /* WordHilight */,
-				35F972D81DFA4E94002D04D0 /* WordHilightTests */,
-				35F972E31DFA4E94002D04D0 /* WordHilightUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -366,7 +255,6 @@
 				35F973311DFA4EC7002D04D0 /* cover.png in Resources */,
 				35F9732F1DFA4EC7002D04D0 /* raz_hugs_le02_p9_text.mp3 in Resources */,
 				35F973391DFA4EC7002D04D0 /* p8.png in Resources */,
-				35F973221DFA4EC7002D04D0 /* Assets.xcassets in Resources */,
 				35F973241DFA4EC7002D04D0 /* Main.storyboard in Resources */,
 				35F9732D1DFA4EC7002D04D0 /* raz_hugs_le02_p7_text.mp3 in Resources */,
 				35F973331DFA4EC7002D04D0 /* p2.png in Resources */,
@@ -378,20 +266,6 @@
 				35F973261DFA4EC7002D04D0 /* BookCollectionViewCell.xib in Resources */,
 				35F973341DFA4EC7002D04D0 /* p3.png in Resources */,
 				35F973371DFA4EC7002D04D0 /* p6.png in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		35F972D71DFA4E94002D04D0 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		35F972E21DFA4E94002D04D0 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,36 +289,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		35F972D51DFA4E94002D04D0 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				35F972DE1DFA4E94002D04D0 /* WordHilightTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		35F972E01DFA4E94002D04D0 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				35F972E91DFA4E94002D04D0 /* WordHilightUITests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		35F972DB1DFA4E94002D04D0 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 35F972C41DFA4E94002D04D0 /* WordHilight */;
-			targetProxy = 35F972DA1DFA4E94002D04D0 /* PBXContainerItemProxy */;
-		};
-		35F972E61DFA4E94002D04D0 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 35F972C41DFA4E94002D04D0 /* WordHilight */;
-			targetProxy = 35F972E51DFA4E94002D04D0 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		35F972CC1DFA4E94002D04D0 /* Main.storyboard */ = {
@@ -491,7 +336,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -499,7 +346,12 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -541,7 +393,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -549,7 +403,12 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -581,10 +440,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 5CC4VW7238;
 				INFOPLIST_FILE = WordHilight/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = xcqromance.WordHilight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -594,68 +455,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 5CC4VW7238;
 				INFOPLIST_FILE = WordHilight/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = xcqromance.WordHilight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-			};
-			name = Release;
-		};
-		35F972F11DFA4E94002D04D0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = 5CC4VW7238;
-				INFOPLIST_FILE = WordHilightTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xcqromance.WordHilightTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WordHilight.app/WordHilight";
-			};
-			name = Debug;
-		};
-		35F972F21DFA4E94002D04D0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = 5CC4VW7238;
-				INFOPLIST_FILE = WordHilightTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xcqromance.WordHilightTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WordHilight.app/WordHilight";
-			};
-			name = Release;
-		};
-		35F972F41DFA4E94002D04D0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = 5CC4VW7238;
-				INFOPLIST_FILE = WordHilightUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xcqromance.WordHilightUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = WordHilight;
-			};
-			name = Debug;
-		};
-		35F972F51DFA4E94002D04D0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = 5CC4VW7238;
-				INFOPLIST_FILE = WordHilightUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xcqromance.WordHilightUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = WordHilight;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -676,24 +481,6 @@
 			buildConfigurations = (
 				35F972EE1DFA4E94002D04D0 /* Debug */,
 				35F972EF1DFA4E94002D04D0 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		35F972F01DFA4E94002D04D0 /* Build configuration list for PBXNativeTarget "WordHilightTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				35F972F11DFA4E94002D04D0 /* Debug */,
-				35F972F21DFA4E94002D04D0 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		35F972F31DFA4E94002D04D0 /* Build configuration list for PBXNativeTarget "WordHilightUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				35F972F41DFA4E94002D04D0 /* Debug */,
-				35F972F51DFA4E94002D04D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

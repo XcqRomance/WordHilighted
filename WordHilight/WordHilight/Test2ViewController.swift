@@ -106,7 +106,7 @@ class Test2ViewController: UIViewController {
         navigationController?.popViewController(animated: true)
     }
     
-    func displayWord() {
+    @objc func displayWord() {
 //        print("\(i)-\(NSDate(timeIntervalSinceNow: 0))")
 //        i += 1
         
@@ -119,8 +119,8 @@ class Test2ViewController: UIViewController {
             
             let curRange = wordRanges[i]
             if Int(curTime * 1000) >=  Int(word.cueStartMs) { // 拿当前播放的声音时间与json每个单词的开始读取时间相比，
-                attributeStr?.addAttributes([NSForegroundColorAttributeName: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
-                attributeStr?.addAttributes([NSForegroundColorAttributeName: UIColor.red], range: curRange)
+                attributeStr?.addAttributes([NSAttributedStringKey.foregroundColor: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
+                attributeStr?.addAttributes([NSAttributedStringKey.foregroundColor: UIColor.red], range: curRange)
                 wordLabel.attributedText = attributeStr
             }
             
@@ -148,7 +148,7 @@ class Test2ViewController: UIViewController {
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         
-        print("\(audioPlayer?.currentTime)")
+      print("\(String(describing: audioPlayer?.currentTime))")
     }
 }
 
@@ -157,7 +157,7 @@ extension Test2ViewController: AVAudioPlayerDelegate {
 //        print("\(player.currentTime)")
         displayLink?.isPaused = true
         
-        attributeStr?.addAttributes([NSForegroundColorAttributeName: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
+        attributeStr?.addAttributes([NSAttributedStringKey.foregroundColor: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
         wordLabel.attributedText = attributeStr
     }
     

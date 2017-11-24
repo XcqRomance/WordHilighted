@@ -57,7 +57,7 @@ class BookCollectionViewController: UIViewController{
         navigationItem.rightBarButtonItem = UIBarButtonItem(customView: btn)
     }
     
-    func push() {
+    @objc func push() {
         let test = Test1ViewController()
         test.navigationItem.title = "测试"
         test.view.backgroundColor = UIColor.white
@@ -109,7 +109,7 @@ class BookCollectionViewController: UIViewController{
     }
     
     // MARK: - response method
-    func handleSwipe(_ gesture: UISwipeGestureRecognizer) {
+    @objc func handleSwipe(_ gesture: UISwipeGestureRecognizer) {
         cancel(delayBlock) // 取消延迟的2秒跳转，因为此时已经手动滑动了
         handleSwipeWithDirection(gesture.direction)
     }
@@ -118,7 +118,7 @@ class BookCollectionViewController: UIViewController{
         let cell = self.collectionView.visibleCells.first as! BookCollectionViewCell
         let indexPath = collectionView.indexPath(for: cell)
         
-        attributeStr?.addAttributes([NSForegroundColorAttributeName: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
+        attributeStr?.addAttributes([NSAttributedStringKey.foregroundColor: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
         cell.content.attributedText = attributeStr
 
         if dir == .right {
@@ -130,7 +130,7 @@ class BookCollectionViewController: UIViewController{
         }
     }
     
-    func displayWord() {
+    @objc func displayWord() {
         let cell = self.collectionView.visibleCells.first as! BookCollectionViewCell
         let indexPath = collectionView.indexPath(for: cell)
         
@@ -146,8 +146,8 @@ class BookCollectionViewController: UIViewController{
             
             let curRange = wordRanges[i]
             if Int(curTime * 1000) >=  Int(word.cueStartMs) { // 拿当前播放的声音时间与json每个单词的开始读取时间相比，
-                attributeStr?.addAttributes([NSForegroundColorAttributeName: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
-                attributeStr?.addAttributes([NSForegroundColorAttributeName: UIColor.red], range: curRange)
+                attributeStr?.addAttributes([NSAttributedStringKey.foregroundColor: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
+                attributeStr?.addAttributes([NSAttributedStringKey.foregroundColor: UIColor.red], range: curRange)
                 cell.content.attributedText = attributeStr
             }
             
@@ -200,7 +200,7 @@ extension BookCollectionViewController: AVAudioPlayerDelegate,UICollectionViewDe
         let cell = self.collectionView.visibleCells.first as! BookCollectionViewCell
         let indexPath = collectionView.indexPath(for: cell)
         
-        attributeStr?.addAttributes([NSForegroundColorAttributeName: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
+        attributeStr?.addAttributes([NSAttributedStringKey.foregroundColor: UIColor.white], range: NSMakeRange(0, attributeStr!.length))
         cell.content.attributedText = attributeStr
         weak var weakSelf = self
         let after = delay(2) { // 延迟2s才执行跳转
